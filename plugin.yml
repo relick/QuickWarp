@@ -1,0 +1,22 @@
+name: QuickWarp
+main: com.zantom07.quickwarp.QuickWarp
+version: 0.5
+description: >
+             QuickWarp allows you to type in a minimal amount to teleport to someone.
+commands:
+  warpto:
+    description: Allows you to teleport to players.
+    aliases: [w2,to]
+    usage: /<command> [player]
+  warphere:
+    description: Allows players to teleport to you.
+    aliases: [wh,here]
+    usage: /<command> [player]
+  return:
+    description: Allows you to return to your position after teleporting.
+    aliases: [r]
+    usage: /<command>
+  worldwarp:
+    description: Allows you to return to your position after teleporting.
+    aliases: [world,ww]
+    usage: /<command> [worldname]
