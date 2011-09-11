@@ -1,0 +1,14 @@
+QuickWarp was designed with the idea of keeping the amount you have to type to teleport to someone at a minimum. It allows you to teleport to your friends, bring them to you, straight to other worlds, and then return with a very small amount of typing. It was also made for those server admins who didn't want to use bloat plugins on their server. This plugin is for teleportation only!
+
+Features
+
+    /warpto command allows you to go to someone, only one name need be typed.
+    /warphere command allows you to send someone to you, once again, only one name need be typed.
+    Both can be shortened to /w2 (and /to) and /wh (and /here) respectively.
+    Player name shortening. If XPlayer is online, and YPlayer wants to teleport to him, he only needs to type /w2 x. That is 5 characters over 20 characters in a normal /tp between the two.
+    Inter-World teleportation if you aren't in the same world as your buddy!
+    Type /return or /r to return to where you where before you teleported!
+    After you die, type /return to return to your dead body!
+    Shortcut between worlds using /worldwarp (/ww and /world). No need to type the full name (unless it is not unique, e.g. world and world_nether)
+    Permissions 3.x support.
+    AND SuperPerms support. If you have Perms 3 it will use that, otherwise it will use SuperPerms. Don't have either? Then OPs can use the commands, but no-one else. 
