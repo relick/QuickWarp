@@ -2,7 +2,7 @@ name: QuickWarp
 main: com.zantom07.quickwarp.QuickWarp
 version: 0.5
 description: >
-             QuickWarp allows you to type in a minimal amount to teleport to someone.
+             QuickWarp allows you to type in a minimal amount to teleport to someone or a world.
 commands:
   warpto:
     description: Allows you to teleport to players.
